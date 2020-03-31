@@ -1,0 +1,7 @@
+1;Luceafarul;O poezie lunga;Mihai Eminescu
+2;Plumb;O poezie trista;George Bacovia
+3;Testament;O poezie de viata;Tudor Arghezi
+4;Moara cu noroc;Nuvela politista;Ioan Slavici
+5;Ultima noapte de dragoste, întâia noapte de război;Interzis;Camil Petrescu
+6;Ion;Un roman al romanului;Liviu Rebreanu
+7;Iona;Balena;Mihai Eminescu

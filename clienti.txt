@@ -1,0 +1,5 @@
+1;Neculai Voiculet;1991206000001
+2;Traian Lupescu;1961206000003
+3;Remus Leonte;1951106000006
+5;Robert;912
+6;Ion Vasile;321312
